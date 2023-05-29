@@ -1,0 +1,7 @@
+mnist/
+bdd100k_videos_train_00/
+opencv-4.7.0/
+*.mp4
+*.cpython*
+*.csv
+*.parquet

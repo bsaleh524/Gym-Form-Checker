@@ -1,0 +1,1 @@
+This is my scrapwork for following https://www.youtube.com/watch?v=YTIMERuz4jg&list=TLPQMjIwNTIwMjN_BN-A9RSbJA&index=3
